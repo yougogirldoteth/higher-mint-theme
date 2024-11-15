@@ -1,0 +1,21 @@
+:root {
+    --background: #018A08;
+    --color:      #ffff;
+    --primary:    #ffff;
+    --muted:      #ffff;
+  
+    --border-color: #ffff;
+    --border-width: 1px;
+  
+    --font-base:      1.2rem;
+    --font-family:    Helvetica Oblique, sans-serif;
+    --font-weight:    400;
+    --text-transform: uppercase;
+    --letter-spacing: -.03vw;
+  
+    --button-background:             #018A08;
+    --button-background-highlight: #888;
+  
+    --card-background:             #018A08;
+    --card-background-highlight: #888;
+}
